@@ -28,7 +28,7 @@ python main.py
 
 ## Auteur / Author
 
-- EhudDuhe
+- Ehud_KAYUMBA 
 
 ## Licence
 
